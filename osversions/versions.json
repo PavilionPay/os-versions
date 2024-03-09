@@ -1,0 +1,62 @@
+[
+  {
+    "metadata": {
+      "name": "v1.1.6"
+    },
+    "spec": {
+      "version": "v1.1.6",
+      "type": "container",
+      "metadata": {
+        "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.6"
+      }
+    }
+  },
+  {
+    "metadata": {
+      "name": "v1.1.7"
+    },
+    "spec": {
+      "version": "v1.1.7",
+      "type": "container",
+      "metadata": {
+        "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.7"
+      }
+    }
+  },
+  {
+    "metadata": {
+      "name": "v1.1.8"
+    },
+    "spec": {
+      "version": "v1.1.8",
+      "type": "container",
+      "metadata": {
+        "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.8"
+      }
+    }
+  },
+  {
+    "metadata": {
+      "name": "v1.1.9"
+    },
+    "spec": {
+      "version": "v1.1.9",
+      "type": "container",
+      "metadata": {
+        "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.9"
+      }
+    }
+  },
+  {
+    "metadata": {
+      "name": "v1.1.10"
+    },
+    "spec": {
+      "version": "v1.1.10",
+      "type": "container",
+      "metadata": {
+        "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.10"
+      }
+    }
+  }
+]
