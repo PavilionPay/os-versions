@@ -1,10 +1,10 @@
 [
   {
     "metadata": {
-      "name": "v1.1.6"
+      "name": "v1.0.6"
     },
     "spec": {
-      "version": "v1.1.6",
+      "version": "v1.0.6",
       "type": "container",
       "metadata": {
         "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.6"
@@ -13,10 +13,10 @@
   },
   {
     "metadata": {
-      "name": "v1.1.7"
+      "name": "v1.0.7"
     },
     "spec": {
-      "version": "v1.1.7",
+      "version": "v1.0.7",
       "type": "container",
       "metadata": {
         "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.7"
@@ -25,10 +25,10 @@
   },
   {
     "metadata": {
-      "name": "v1.1.8"
+      "name": "v1.0.8"
     },
     "spec": {
-      "version": "v1.1.8",
+      "version": "v1.0.8",
       "type": "container",
       "metadata": {
         "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.8"
@@ -37,10 +37,10 @@
   },
   {
     "metadata": {
-      "name": "v1.1.9"
+      "name": "v1.0.9"
     },
     "spec": {
-      "version": "v1.1.9",
+      "version": "v1.0.9",
       "type": "container",
       "metadata": {
         "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.9"
@@ -49,10 +49,10 @@
   },
   {
     "metadata": {
-      "name": "v1.1.10"
+      "name": "v1.0.10"
     },
     "spec": {
-      "version": "v1.1.10",
+      "version": "v1.0.10",
       "type": "container",
       "metadata": {
         "upgradeImage": "ghcr.io/dlange-pavilion/test:v1.1.10"
